@@ -32,8 +32,8 @@ const Hero = () => {
           }
 
           @media screen and (max-width: 420px) {
-            top: 10%;
-            left: -5%;
+            top: 25%;
+            left: -20%;
           }
         `}
       >
