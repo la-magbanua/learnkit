@@ -60,6 +60,7 @@ export const Subheading = styled.p`
 
   @media screen and (max-width: 420px) {
     font-size: 1rem;
+    line-height: 1.5;
   }
 `
 
